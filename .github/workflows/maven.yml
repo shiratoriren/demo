@@ -11,7 +11,7 @@ on:
 
 env:
   EC2_USER: 'ec2-user'
-  EC2_HOST: '3.229.145.19'
+  EC2_HOST: '34.233.164.129'
   SRC_PATH: 'out/*.jar'
   DEST_DIR: '/var/apps'
   
