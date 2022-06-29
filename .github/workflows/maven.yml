@@ -124,7 +124,6 @@ jobs:
               echo "${APP_NAME} app start!!"
               sudo systemctl start ${APP_NAME}
             fi
-              - name: Notify deployment
 
       - name: Notify deployment
         uses: 8398a7/action-slack@v3.8.0
